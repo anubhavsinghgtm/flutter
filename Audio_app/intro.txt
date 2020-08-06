@@ -1,1 +1,12 @@
 
+Hello, This is a flutter music app. Where we can run audio through the assets and from the network as well. I used two package fluttertoast and audioplayers. 
+
+Fluttertoast is to generate the toast on clicking the buttons and audioplayers to run our audio file. 
+
+For designing the whole app Material app is used and to provide the canvas I used the Scaffold. Through the scaffold, I created the app bar and body part.
+
+In order to put the multiple widgets inside the body, I used the column widget. For designing the player background I used the card property. First, I added the music through the internet and then in the next card I used assets file to play the music. 
+
+## Future updates
+I will add a navigation button and then we will also be able to integrate the video player on the next page. 
+Loop playlist function will also be added and custom playlist functionality will also be implemented.
